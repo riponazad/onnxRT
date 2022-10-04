@@ -145,11 +145,11 @@ dmypy.json
 cython_debug/
 
 # tar file
-.tar.gz
+*.tar.gz
 
 #onnx
-.onnx
-.pb
+*.onnx
+*.pb
 
 # PyCharm
 #  JetBrains specific template is maintainted in a separate JetBrains.gitignore that can
